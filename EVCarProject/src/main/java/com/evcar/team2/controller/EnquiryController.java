@@ -78,7 +78,7 @@ public class EnquiryController {
 
     		jms.send(m);
     		}
-		
+		//sysout
     	
     	return "cibil score checked";
     }
