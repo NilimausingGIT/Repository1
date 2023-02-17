@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.evcar.team2.model.Customer;
 import com.evcar.team2.serviceInterface.SerCustomer;
 
+//controller added 
 @RestController
 public class CustomerController {
 	@Autowired
